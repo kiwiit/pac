@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 ai.cham.pub:7890';
 var rules = [
     [
         [],
